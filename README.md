@@ -1,0 +1,1 @@
+# dockerfile-metricbeat-6.2.3
